@@ -73,6 +73,8 @@ dropportal/
 ├── app.py           # Core Flask application entry point
 └── requirements.txt # Python package dependencies
 
+---
+
 ## 🌐 Live Demo
 
 Check out the live deployment of [DropPortal on Render](https://dropportal.onrender.com/).
