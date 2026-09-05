@@ -37,42 +37,54 @@ Ensure you have Python installed on your system:
    ```bash
    git clone [https://github.com/AkkhileshCod3s/dropportal.git](https://github.com/AkkhileshCod3s/dropportal.git)
    cd dropportal
-Create and activate a virtual environment:
 
-On macOS/Linux:
+2. **Create and activate a virtual environment:**
+   - **On macOS/Linux:**
+     ```bash
+     python3 -m venv venv
+     source venv/bin/activate
+     ```
+   - **On Windows:**
+     ```bash
+     python -m venv venv
+     venv\Scripts\activate
+     ```
 
-Bash
-python3 -m venv venv
-source venv/bin/activate
-On Windows:
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
 
-Bash
-python -m venv venv
-venv\Scripts\activate
-Install dependencies:
+4. **Run the application:**
+   ```bash
+   python app.py
 
-Bash
-pip install -r requirements.txt
-Run the application:
+5. **Access the app:**
+   Open your browser and navigate to `http://127.0.0.1:5000`.
 
-Bash
-python app.py
-Access the app:
-Open your browser and navigate to http://127.0.0.1:5000.
+---
 
-📁 Repository Structure
-Plaintext
+## 📁 Repository Structure
+
+```text
 dropportal/
 │
 ├── static/          # CSS stylesheets and JavaScript files
 ├── templates/       # HTML templates (index.html, etc.)
 ├── app.py           # Core Flask application entry point
 └── requirements.txt # Python package dependencies
-🌐 Live Demo
-Check out the live deployment of DropPortal on Render.
 
-🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the Issues page.
+## 🌐 Live Demo
 
-📄 License
-This project is open-source and available under the MIT License.
+Check out the live deployment of [DropPortal on Render](https://dropportal.onrender.com/).
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [Issues page](https://github.com/AkkhileshCod3s/dropportal/issues).
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
