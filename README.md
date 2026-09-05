@@ -73,20 +73,18 @@ dropportal/
 ├── app.py           # Core Flask application entry point
 └── requirements.txt # Python package dependencies
 
----
 
-## 🌐 Live Demo
+
+🌐 Live Demo
 
 Check out the live deployment of [DropPortal on Render](https://dropportal.onrender.com/).
 
----
 
-## 🤝 Contributing
+🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [Issues page](https://github.com/AkkhileshCod3s/dropportal/issues).
 
----
 
-## 📄 License
+📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
