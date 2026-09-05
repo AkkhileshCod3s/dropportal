@@ -76,11 +76,18 @@ dropportal/
 └── requirements.txt # Python package dependencies
 ```
 
-🌐 Live Demo
-Check out the live deployment of DropPortal on Render.
+## 🌐 Live Demo
 
-🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the Issues page.
+Check out the live deployment of [DropPortal on Render](https://dropportal.onrender.com/).
 
-📄 License
-This project is open-source and available under the MIT License.
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [Issues page](https://github.com/AkkhileshCod3s/dropportal/issues).
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](https://github.com/AkkhileshCod3s/dropportal/blob/main/LICENSE).
