@@ -65,6 +65,8 @@ Ensure you have Python installed on your system:
 
 ## 📁 Repository Structure
 
+## 📁 Repository Structure
+
 ```text
 dropportal/
 │
@@ -72,19 +74,13 @@ dropportal/
 ├── templates/       # HTML templates (index.html, etc.)
 ├── app.py           # Core Flask application entry point
 └── requirements.txt # Python package dependencies
-
-
+```
 
 🌐 Live Demo
-
-Check out the live deployment of [DropPortal on Render](https://dropportal.onrender.com/).
-
+Check out the live deployment of DropPortal on Render.
 
 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [Issues page](https://github.com/AkkhileshCod3s/dropportal/issues).
-
+Contributions, issues, and feature requests are welcome! Feel free to check the Issues page.
 
 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the MIT License.
